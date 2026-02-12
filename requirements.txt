@@ -6,6 +6,7 @@ langchain-experimental
 
 # OpenAI integration (for models and embeddings)
 langchain-openai
+python-dotenv
 
 # Token counting for text splitters
 tiktoken

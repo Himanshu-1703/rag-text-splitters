@@ -1660,6 +1660,7 @@ dependencies = [
     { name = "langchain-experimental" },
     { name = "langchain-openai" },
     { name = "langchain-text-splitters" },
+    { name = "python-dotenv" },
     { name = "termcolor" },
     { name = "tiktoken" },
 ]
@@ -1672,6 +1673,7 @@ requires-dist = [
     { name = "langchain-experimental", specifier = ">=0.4.1" },
     { name = "langchain-openai", specifier = ">=1.1.7" },
     { name = "langchain-text-splitters", specifier = ">=1.1.0" },
+    { name = "python-dotenv", specifier = ">=1.2.1" },
     { name = "termcolor", specifier = ">=3.3.0" },
     { name = "tiktoken", specifier = ">=0.12.0" },
 ]
